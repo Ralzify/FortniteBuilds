@@ -1,21 +1,4 @@
 # Fortnite Builds
-The largest Fortnite Builds Archive maintained by simplyblk. 
-
-## Want to help me cover storage and egress costs? Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
-
-## Usage & Other information.
-
-Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [Crunnie.](https://github.com/Crunnie)
-
-If you wish to contribute anything that isn't listed here, DM simplyblk or Email me @ support@fnbuilds.services
-
-Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficient downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)
-
-If you decide to use this for a project, you must provide credit of this GitHub repo.
-
-Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
-
-My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
 
 # Downloads & Keys
 
@@ -156,7 +139,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 13.00-CL-1364927	                | 6/17/20         	 | UE4.26            	    |		[Go to Download](https://cdn.fnbuilds.services/13.00.rar)|		0x2BA4708C17ABF803AB821C0C89FA1CF3DFE7AA91D526D2E11526BC1AC4E34D13 |
 | 13.40.0-CL-14008768	           | 8/5/20         	 | UE4.26            	    |		[Go to Download](http://tinyurl.com/hcdb39pw)|		0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
-| 13.40-CL-14113327	                | 27-09-20         	 | UE4.26            	    |	[Go to Download](https://cdn.fnbuilds.services/13.40.zip)|
+| 13.40-CL-14113327	                | 27-09-20         	 | UE4.26            	    |	[Go to Download](https://cdn.fnbuilds.services/13.40.zip)|0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
@@ -176,7 +159,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 16.00-CL-NA             | 3/16/21        	 | UE4.26.1           	                    |		[Go to Download](https://drive.google.com/file/d/1eS9TZh8u0Ea0LhGvG1DIiCYVlNef_2RT/view)|		
+| 16.00-CL-15685441             | 3/16/21        	 | UE4.26.1           	                    |		[Go to Download](https://drive.google.com/file/d/1eS9TZh8u0Ea0LhGvG1DIiCYVlNef_2RT/view)|		
 | 16.40-CL-16218553             | 5/11/21        	 | UE4.26.1           	                    |		[Go to Download](https://cdn.fnbuilds.services/16.40.rar)|		0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142 |
 | 16.50-CL-16432754             | 5/24/21        	 | UE4.26.1           	                    |		[Go to Download](https://drive.google.com/file/d/1OqbAianaZ8LN8DVo0bsiaEnNuWNhHp6x/view?usp=sharing)|		0x7412E4B98E3CEB374FBF9EB5654A5D7B785B18E3A997FAF8D22EFEEA00DF851E |
 
