@@ -175,13 +175,13 @@
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 19.01-CL-18380290	                | 12/14/21         	 | N/A           	    |	 [Go to Download](https://shorturl.at/cjwLQ)|		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
-| 19.10-CL-18675304	                | 1/18/22         	 | N/A           	    |	 [Go to Download](https://cdn.fnbuilds.services/19.10.rar)|		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
+| 19.01-CL-18380290	                | 12/14/21         	 | UE5.0           	    |	 [Go to Download](https://shorturl.at/cjwLQ)|		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
+| 19.10-CL-18675304	                | 1/18/22         	 | UE5.0           	    |	 [Go to Download](https://cdn.fnbuilds.services/19.10.rar)|		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 20.40-CL-20244966	                | 5/17/22         	 | N/A           	    |	 [Go to Download](https://cdn.fnbuilds.services/20.40.zip)|		0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430 |
+| 20.40-CL-20244966	                | 5/17/22         	 | UE5.1           	    |	 [Go to Download](https://cdn.fnbuilds.services/20.40.zip)|		0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430 |
 
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
