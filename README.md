@@ -137,7 +137,7 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 13.00-CL-1364927	                | 6/17/20         	 | UE4.26            	    |		[Go to Download](https://cdn.fnbuilds.services/13.00.rar)|		0x2BA4708C17ABF803AB821C0C89FA1CF3DFE7AA91D526D2E11526BC1AC4E34D13 |
 | 13.40.0-CL-14008768	           | 8/5/20         	 | UE4.26            	    |		[Go to Download](http://tinyurl.com/hcdb39pw)|		0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
-| 13.40-CL-14113327	                | 27-09-20         	 | UE4.26            	    |	[Go to Download](https://cdn.fnbuilds.services/13.40.zip)|0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
+| 13.40-CL-14113327 (CDN Link)                | 8/5/20         	 | UE4.26            	    |	[Go to Download](https://cdn.fnbuilds.services/13.40.zip)|0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
