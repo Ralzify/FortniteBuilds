@@ -119,6 +119,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |		    Main AES Key             |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | ------------------------------ |
 | 11.00-CL-9603448	             | 10/15/19         | UE4.24              |	 [Go to Download](https://cdn.fnbuilds.services/11.00.zip)|		0xC078E51F6EC259767BF61FEE58CD3C4C367E487D9DFD9EF1C2D504BBC97360EE |
+| 11.10-CL-NA             | 10/28/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1qpo93UCUv5WwqaoD5YtN1XawqKA0D_B1/view)|		0x60B40115A36DD9F17CC4A352F03211E3A859AC664FEF7E7200930F849FD8A980 |
 | 11.30-CL-10708866             | 12/12/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1TaYBOJPwIxxpNJ1WFwd6VXmFnpxXF4Bl/view)|		0x8C4CC9E6F7F2A770F4E35BFA48741DF0571DBA3D255AC021168721D0D8188647 |
 | 11.31-CL-10800459	                 | 12/18/19        	    | UE4.24                 |	 [Go to Download](https://cdn.fnbuilds.services/11.31.rar)|		0x6C51ABA88CA1240A0D14EB94701F6C41FD7799B102E9060D1E6C316993196FDF |
  
