@@ -115,7 +115,7 @@
 | 10.00-CL-7704164	             | 8/1/19         	     | UE4.23            |	[Go to Download](https://cdn.fnbuilds.services/10.00.zip)|		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
 | 10.10-CL-7955722	             | 8/10/19         	     | UE4.23            |	[Go to Download](https://cdn.fnbuilds.services/10.10.zip)|		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
 | 10.20-CL-8456527	             | 8/27/19         	     | UE4.23            |	[Go to Download](https://cdn.fnbuilds.services/10.20.zip)|		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
-| 10.30-CL-NA	             | 9/11/19         	     | UE4.23            |	[Go to Download](https://drive.google.com/file/d/1wZZs864k5Jv9NJ6zPdlI5q4087BCpi9o/view?usp=sharing)|		0xCCBBADDB24A0D16C14088AB762CA93DADFD3CB773619CBF49A05A3BCC5AD920D |
+| 10.30-CL-8569414	             | 9/11/19         	     | UE4.23            |	[Go to Download](https://drive.google.com/file/d/1wZZs864k5Jv9NJ6zPdlI5q4087BCpi9o/view?usp=sharing)|		0xCCBBADDB24A0D16C14088AB762CA93DADFD3CB773619CBF49A05A3BCC5AD920D |
 | 10.31-CL-8723043	             | 9/18/19         	     | UE4.23            |	[Go to Download](https://cdn.fnbuilds.services/10.31.zip)|		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
 | 10.40-CL-9380822           	  | 9/25/19         	     | UE4.23            |		[Go to Download](https://cdn.fnbuilds.services/10.40.rar)|		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
@@ -124,7 +124,7 @@
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | ------------------------------ |
 | 11.00-CL-9603448	             | 10/15/19         | UE4.24              |	 [Go to Download](https://cdn.fnbuilds.services/11.00.zip)|		0xC078E51F6EC259767BF61FEE58CD3C4C367E487D9DFD9EF1C2D504BBC97360EE |
 | 11.01-CL-NA	             | 10/22/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing)|		0x907E55A88B1FD1DED3CBCD49E84B6E53DC15BD9F3CA8E5675379B8DC34D6B67B |
-| 11.10-CL-NA             | 10/28/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1qpo93UCUv5WwqaoD5YtN1XawqKA0D_B1/view)|		0x60B40115A36DD9F17CC4A352F03211E3A859AC664FEF7E7200930F849FD8A980 |
+| 11.10-CL-9901083             | 10/28/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1qpo93UCUv5WwqaoD5YtN1XawqKA0D_B1/view)|		0x60B40115A36DD9F17CC4A352F03211E3A859AC664FEF7E7200930F849FD8A980 |
 | 11.30-CL-10708866             | 12/12/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1TaYBOJPwIxxpNJ1WFwd6VXmFnpxXF4Bl/view)|		0x8C4CC9E6F7F2A770F4E35BFA48741DF0571DBA3D255AC021168721D0D8188647 |
 | 11.31-CL-10800459	                 | 12/18/19        	    | UE4.24                 |	 [Go to Download](https://cdn.fnbuilds.services/11.31.rar)|		0x6C51ABA88CA1240A0D14EB94701F6C41FD7799B102E9060D1E6C316993196FDF |
  
