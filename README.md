@@ -184,6 +184,7 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 19.01-CL-18380290	                | 12/14/21         	 | UE5.0           	    |	 [Go to Download](https://shorturl.at/cjwLQ)|		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
 | 19.10-CL-18675304	                | 1/18/22         	 | UE5.0           	    |	 [Go to Download](https://cdn.fnbuilds.services/19.10.rar)|		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
+| 19.20-CL-N/A	                | 2/1/22         	 | UE5.0           	    |	 [Go to Download](https://drive.google.com/file/d/1LQkB7GMRynn4yjdQBormwljPJs_w4DPb/view)|		0x0D78949544CBC971FEDBBFF50CFB32EDFF15BE1B32E5EFEC9E2EAF6656747C83 |
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
