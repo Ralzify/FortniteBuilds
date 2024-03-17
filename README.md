@@ -142,7 +142,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 13.00-CL-1364927	                | 6/17/20         	 | UE4.26            	    |		[Go to Download](https://cdn.fnbuilds.services/13.00.rar)|		0x2BA4708C17ABF803AB821C0C89FA1CF3DFE7AA91D526D2E11526BC1AC4E34D13 |
-| 13.40.0-CL-14008768	           | 8/5/20         	 | UE4.26            	    |		[Go to Download](http://tinyurl.com/hcdb39pw)|		0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
+| 13.40.0-CL-14008768	           | 8/5/20         	 | UE4.26            	    |		[Go to Download](https://drive.usercontent.google.com/download?id=1vtO5dgy6-IRurfY6PdIEI1wSvCgvSO2C&export=download&authuser=0&confirm=t&uuid=beb002c8-d74d-4e13-ae3d-7f7130680093&at=APZUnTWUkdkmJHCrox57r2MUNlCU%3A1704234414990)|		0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
 | 13.40-CL-14113327 (CDN Link)                | 8/5/20         	 | UE4.26            	    |	[Go to Download](https://cdn.fnbuilds.services/13.40.zip)|0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
 
 # Season 14
@@ -182,9 +182,9 @@
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 19.01-CL-18380290	                | 12/14/21         	 | UE5.0           	    |	 [Go to Download](https://shorturl.at/cjwLQ)|		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
+| 19.01-CL-18380290	                | 12/14/21         	 | UE5.0           	    |	 [Go to Download](https://drive.usercontent.google.com/download?id=1NjyLM4RgoxjK-xde-6xz3T2bcuIH4A9T&export=download&authuser=0&confirm=t&uuid=6965be9e-bc82-498a-95c9-a93bdc0573fd&at=APZUnTXFm7DFJUG-q9HHHJ0iOutr%3A1704233227866)|		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
 | 19.10-CL-18675304	                | 1/18/22         	 | UE5.0           	    |	 [Go to Download](https://cdn.fnbuilds.services/19.10.rar)|		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
-| 19.20-CL-N/A	                | 2/1/22         	 | UE5.0           	    |	 [Go to Download](https://drive.google.com/file/d/1LQkB7GMRynn4yjdQBormwljPJs_w4DPb/view)|		0x0D78949544CBC971FEDBBFF50CFB32EDFF15BE1B32E5EFEC9E2EAF6656747C83 |
+| 19.20-CL-18775446	                | 2/1/22         	 | UE5.0           	    |	 [Go to Download](https://drive.google.com/file/d/1LQkB7GMRynn4yjdQBormwljPJs_w4DPb/view)|		0x0D78949544CBC971FEDBBFF50CFB32EDFF15BE1B32E5EFEC9E2EAF6656747C83 |
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
@@ -194,7 +194,12 @@
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 21.00-CL-20463113	                | 6/5/22         	 | N/A           	    |	 [Go to Download](http://tinyurl.com/4ruh2hy4)|		0x6615171DA4E596F5511B1A445ADDDCA27A31A67246C30B0743F5739E7670D699 |
+| 21.00-CL-20463113	                | 6/5/22         	 | N/A           	    |	 [Go to Download](https://drive.usercontent.google.com/download?id=1lOVtoc5WjBzKQRrHt36OPmbkQcwx9GZH&export=download&authuser=0&confirm=t&uuid=c573271b-3b11-4f43-96b6-9cff579f865b&at=APZUnTUUMxZ0oGG0sSLvRFqYLPP_%3A1704234518799)|		0x6615171DA4E596F5511B1A445ADDDCA27A31A67246C30B0743F5739E7670D699 |
+
+# Season 23 (Chapter 4)
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 23.00-CL-NA	                | 12/4/22         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/1CVTGxnm-idcOKw7P_DUuM4Tj_-sIdz8W/view?usp=sharing)|		0x8FC59C631B98802BA09DE361A6F37D882F047D19122B30C30673233129F79F1A |
 
 # Season 27 (Season OG)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
