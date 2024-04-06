@@ -197,6 +197,11 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 21.00-CL-20463113	                | 6/5/22         	 | N/A           	    |	 [Go to Download](https://drive.usercontent.google.com/download?id=1lOVtoc5WjBzKQRrHt36OPmbkQcwx9GZH&export=download&authuser=0&confirm=t&uuid=c573271b-3b11-4f43-96b6-9cff579f865b&at=APZUnTUUMxZ0oGG0sSLvRFqYLPP_%3A1704234518799)|		0x6615171DA4E596F5511B1A445ADDDCA27A31A67246C30B0743F5739E7670D699 |
 
+# Season 21
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 22.30-CL-NA	                | 11/1/22         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/1VAA0OvkLddmOpTbpnGIpdJP7OxQmuxrD/view)|		0xA1CDA4AD9A8A3B32AB87DD3501B3D906DA57C91FA599FFF5F15A35F3416DCF3C |
+
 # Season 23 (Chapter 4)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
