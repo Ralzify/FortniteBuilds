@@ -1,3 +1,9 @@
+# Credit:
+- [simplyblk](https://github.com/simplyblk/Fortnitebuilds): Original creator of the Fortnitebuilds github. Uploaded most of these builds
+- [CoolNite](https://github.com/CoolNiteYT/Fortnite-Builds): Uploader of most of the lost builds
+- [Milxnor](https://github.com/milxnor): Uploader of 15.10
+- [Dippyshare](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive): AES Keys for all versions
+
 # Downloads & Keys
 
 # Pre-BattleRoyale
@@ -190,6 +196,7 @@
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 20.00-CL-N/A	                | 3/20/22         	 | UE5.1           	    |	 [Go to Download](https://drive.google.com/file/d/1T_S_mEpr2v7cfgfvXGplGoO5rwnttoF-/view)|		0x53839BA2A77AE393588184ACBD18EDBC935CA60D554F9D29BC3F135E426C4A6F |
 | 20.40-CL-20244966	                | 5/17/22         	 | UE5.1           	    |	 [Go to Download](https://cdn.fnbuilds.services/20.40.zip)|		0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430 |
 
 # Season 21
@@ -206,6 +213,9 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 23.00-CL-NA	                | 12/4/22         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/1CVTGxnm-idcOKw7P_DUuM4Tj_-sIdz8W/view?usp=sharing)|		0x8FC59C631B98802BA09DE361A6F37D882F047D19122B30C30673233129F79F1A |
+
+# NOTE:
+Builds past 24.20 are manifestable using [Legendary](https://github.com/derrod/legendary/releases/latest). You can find most manifests for Fortnite versions [here](https://github.com/polynite/fn-releases).
 
 # Season 27 (Season OG)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
