@@ -208,6 +208,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 22.30-CL-NA	                | 11/1/22         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/1VAA0OvkLddmOpTbpnGIpdJP7OxQmuxrD/view)|		0xA1CDA4AD9A8A3B32AB87DD3501B3D906DA57C91FA599FFF5F15A35F3416DCF3C |
+| 22.40-CL-23070899	                | 11/15/22         	 | N/A           	    |	 [Manifest on Legendary](https://github.com/derrod/legendary/releases/latest) / [Manifest File](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest)|		0xA1CDA4AD9A8A3B32AB87DD3501B3D906DA57C91FA599FFF5F15A35F3416DCF3C |
 
 # Season 23 (Chapter 4)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
