@@ -12,7 +12,6 @@
 | OT6.5-CL-2870186        	 |  2/28/16	   	 | UE4.12-2870186	    |		[Go to Download](https://public.simplyblk.xyz/OT0.6.5.zip) |		N/A |
 | Cert-CL-3532353                | 7/20/17              | UE4.16-3532353           | [Go to Download](https://rebrand.ly/1_2_X) |		N/A |
 | 1.2-CL-3541083         	 |  7/21/17      	 | UE4.16-3541083	    |		[Go to Download](https://rebrand.ly/1_2_0) |		0x79323938716A53623131354E71513341676164333044576E3251597254493843 |
-| Pre-Season Unknown Build         	 |  ???      	 | UE4.16-3541083	    |		[Go to Download](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download&authuser=0) |		??? |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |		    Main AES Key             |
@@ -65,7 +64,6 @@
 | 5.21-CL-4288479         	| 8/15/18       	 | UE4.21-4288479 	    |           [Go to Download](https://public.simplyblk.xyz/5.21.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 | 5.30-CL-4305896         	| 8/23/18       	 | UE4.21-4305896	    |           [Go to Download](https://public.simplyblk.xyz/5.30.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 | 5.40-CL-4352937         	| 9/5/18       	 | UE4.21-4352937	    |		[Go to Download](https://public.simplyblk.xyz/5.40.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 5.41-CL-4363240         	| 9/19/18       	 | UE4.21-4363240	    |		[Go to Download](https://drive.google.com/file/d/1WOeSqe-rncwCujUNVE_WYvxg3nxhWKNB/view?usp=sharing)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
@@ -78,7 +76,6 @@
 | 6.10-CL-4464155       	| 10/16/18      	 | UE4.21-4464155   	    | 		[Go to Download](https://public.simplyblk.xyz/6.10.rar)|		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
 | 6.10-CL-4476098       	| 10/16/18      	 | UE4.21-4476098   	    | 		[Go to Download](https://public.simplyblk.xyz/6.10.1.rar)|		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
 | 6.10-CL-4480234   	  	| 10/16/18       	 | UE4.21-4480234	    |		[Go to Download](https://public.simplyblk.xyz/6.10.2.rar)|		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
-| 6.20-CL-NA         	| 10/24/18       	 | UE4.21-4526925	    |		[Go to Download](https://drive.google.com/file/d/16VG_KQCJ_oXN6mavQi-kmVbhjXr1_wxl/view?usp=sharing)|		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
 | 6.21-CL-4526925         	| 11/1/18       	 | UE4.21-4526925	    |		[Go to Download](https://public.simplyblk.xyz/6.21.rar)|		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
 | 6.22-CL-4543176		| 11/4/18		 | UE4.21-4543176	    | 		[Go to Download](https://public.simplyblk.xyz/6.22.rar)|		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
 | 6.30-CL-4573096         	| 11/13/18       	 | UE4.21-4573096	    |		[Go to Download](https://public.simplyblk.xyz/6.30.rar)|		0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491 |
@@ -90,7 +87,7 @@
 | 7.00-CL-4629139         	| 12/6/18       	 | UE4.22-4629139	    |		[Go to Download](https://public.simplyblk.xyz/7.00.rar)|		N/A |
 | 7.10-CL-4667333	       	| 12/18/18             	 | UE4.22-4667333	    |		[Go to Download](https://public.simplyblk.xyz/7.10.rar)|		0x73C95026DDCE5F8CE52BB69C55B8FA027E9FF58C6211D9001095AAC2ABDE6714 |
 | 7.20-CL-4727874	       	| 1/22/19             	 | UE4.22-4727874	    |		[Go to Download](https://public.simplyblk.xyz/7.20.rar)|		0x265E1A5E2741895843D75728B73AEB6A814D3B0302FC69BE39BB3F408B9B54E6 |
-| 7.30-CL-4834550         	| 1/29/19       	 | UE4.22-4834550	    |		[Go to Download](https://drive.google.com/file/d/19CSg0CERKaTDATImlR-xOUTCd_iDhWc9/view?usp=sharing)|		0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4 |
+| 7.30-CL-4834550         	| 1/29/19       	 | UE4.22-4834550	    |		[Go to Download](https://public.simplyblk.xyz/7.30.rar)|		0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4 |
 | 7.40-CL-5046157         	| 2/13/19       	 | UE4.22-5046157	    |		[Go to Download](https://public.simplyblk.xyz/7.40.rar)|		0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F |
 
 # Season 8
@@ -109,7 +106,6 @@
 | 9.00-CL-6337466	              | 5/9/19        	  | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/9.00.zip)|		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
 | 9.01-CL-6428087	              | 5/15/19        	  | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/9.01.zip)|		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
 | 9.10-CL-6639283	              | 5/19/19       	   | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/9.10.rar)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
-| 9.20-CL-NA	              | 6/6/19         	 | UE4.23            	    |		[Go to Download](https://drive.google.com/file/d/1Yh1JhuRR1k8q6EwCrB9QN5iz5P-zZDgB/view?usp=sharing)|		0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
 | 9.21-CL-6922310	              | 6/12/19         	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/9.21.zip)|		0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
 | 9.30-CL-7095426	              | 7/9/19         	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/9.30.zip)|		0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC |
 | 9.40-CL-7315705               | 7/17/19         	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/9.40.zip)|		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
@@ -121,7 +117,6 @@
 | 10.00-CL-7704164	             | 8/1/19         	     | UE4.23            |	[Go to Download](https://public.simplyblk.xyz/10.00.zip)|		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
 | 10.10-CL-7955722	             | 8/10/19         	     | UE4.23            |	[Go to Download](https://public.simplyblk.xyz/10.10.zip)|		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
 | 10.20-CL-8456527	             | 8/27/19         	     | UE4.23            |	[Go to Download](https://public.simplyblk.xyz/10.20.zip)|		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
-| 10.30-CL-8569414	             | 9/11/19         	     | UE4.23            |	[Go to Download](https://drive.google.com/file/d/1wZZs864k5Jv9NJ6zPdlI5q4087BCpi9o/view?usp=sharing)|		0xCCBBADDB24A0D16C14088AB762CA93DADFD3CB773619CBF49A05A3BCC5AD920D |
 | 10.31-CL-8723043	             | 9/18/19         	     | UE4.23            |	[Go to Download](https://public.simplyblk.xyz/10.31.zip)|		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
 | 10.40-CL-9380822           	  | 9/25/19         	     | UE4.23            |		[Go to Download](https://public.simplyblk.xyz/10.40.rar)|		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
@@ -129,9 +124,6 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |		    Main AES Key             |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | ------------------------------ |
 | 11.00-CL-9603448	             | 10/15/19         | UE4.24              |	 [Go to Download](https://public.simplyblk.xyz/11.00.zip)|		0xC078E51F6EC259767BF61FEE58CD3C4C367E487D9DFD9EF1C2D504BBC97360EE |
-| 11.01-CL-NA	             | 10/22/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing)|		0x907E55A88B1FD1DED3CBCD49E84B6E53DC15BD9F3CA8E5675379B8DC34D6B67B |
-| 11.10-CL-9901083             | 10/28/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1qpo93UCUv5WwqaoD5YtN1XawqKA0D_B1/view)|		0x60B40115A36DD9F17CC4A352F03211E3A859AC664FEF7E7200930F849FD8A980 |
-| 11.30-CL-10708866             | 12/12/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1TaYBOJPwIxxpNJ1WFwd6VXmFnpxXF4Bl/view)|		0x8C4CC9E6F7F2A770F4E35BFA48741DF0571DBA3D255AC021168721D0D8188647 |
 | 11.31-CL-10800459	                 | 12/18/19        	    | UE4.24                 |	 [Go to Download](https://public.simplyblk.xyz/11.31.rar)|		0x6C51ABA88CA1240A0D14EB94701F6C41FD7799B102E9060D1E6C316993196FDF |
  
 # Season 12
@@ -162,18 +154,14 @@
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 15.00-CL-14835335	                | 12/3/20         	 | UE4.26            	    |		[Go to Download](https://drive.google.com/file/d/1bG76XmO5rQRSa842g7GsaOBim1DegJoV/view?usp=sharing)|		0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2 |
 | 15.10-CL-15014719	                | 12/15/20         	 | UE4.26            	    |		[Go to Download](https://dl.dropbox.com/s/3xhcxqwyoegxjlm/15.10-CL-15014719.zip?dl=2)|		0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE |
 | 15.30-CL-15341163	          | 2/2/21         	 | UE4.26            	    |		[Go to Download](https://public.simplyblk.xyz/15.30.rar)|		0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0 |
-| 15.50-CL-15570449	                | 3/2/21         	 | UE4.26            	    |		[Go to Download](https://drive.google.com/file/d/1oIV90HsPU9cDfPucAmhg7aj4bH2PBrHD/view)|		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
+| 15.50-CL-15570449	                | 3/2/21         	 | UE4.26            	    |		[Go to Download](https://cdn.fnbuilds.xyz/15.50.rar)|		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 16.00-CL-15685441             | 3/16/21        	 | UE4.26.1           	                    |		[Go to Download](https://drive.google.com/file/d/1eS9TZh8u0Ea0LhGvG1DIiCYVlNef_2RT/view)|0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A |		
-| 16.30-CL-NA             | 4/27/21        	 | UE4.26.1           	                    |		[Go to Download](https://drive.google.com/file/d/1V1uy6-Q7hvNL4uoQozyIpXQORwSq3wZL/view)|		0xF941D9809A67D9BD104273E3C649F4395B6B6A874D16515F404B50D6A9FFA5A4 |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ ||		
 | 16.40-CL-16218553             | 5/11/21        	 | UE4.26.1           	                    |		[Go to Download](https://public.simplyblk.xyz/16.40.rar)|		0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142 |
-| 16.50-CL-16432754             | 5/24/21        	 | UE4.26.1           	                    |		[Go to Download](https://drive.google.com/file/d/1OqbAianaZ8LN8DVo0bsiaEnNuWNhHp6x/view?usp=sharing)|		0x7412E4B98E3CEB374FBF9EB5654A5D7B785B18E3A997FAF8D22EFEEA00DF851E |
 
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
@@ -191,34 +179,16 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 19.01-CL-18380290	                | 12/14/21         	 | UE5.0           	    |	 [Go to Download](https://cdn.fnbuilds.xyz/19.01.zip)|		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
 | 19.10-CL-18675304	                | 1/18/22         	 | UE5.0           	    |	 [Go to Download](https://public.simplyblk.xyz/19.10.rar)|		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
-| 19.20-CL-18775446	                | 2/1/22         	 | UE5.0           	    |	 [Go to Download](https://drive.google.com/file/d/1LQkB7GMRynn4yjdQBormwljPJs_w4DPb/view)|		0x0D78949544CBC971FEDBBFF50CFB32EDFF15BE1B32E5EFEC9E2EAF6656747C83 |
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 20.00-CL-N/A	                | 3/20/22         	 | UE5.1           	    |	 [Go to Download](https://drive.google.com/file/d/1T_S_mEpr2v7cfgfvXGplGoO5rwnttoF-/view)|		0x53839BA2A77AE393588184ACBD18EDBC935CA60D554F9D29BC3F135E426C4A6F |
 | 20.40-CL-20244966	                | 5/17/22         	 | UE5.1           	    |	 [Go to Download](https://public.simplyblk.xyz/20.40.zip)|		0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430 |
-
-# Season 21
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 21.00-CL-20463113	                | 6/5/22         	 | N/A           	    |	 [Go to Download](https://drive.usercontent.google.com/download?id=1lOVtoc5WjBzKQRrHt36OPmbkQcwx9GZH&export=download&authuser=0&confirm=t&uuid=c573271b-3b11-4f43-96b6-9cff579f865b&at=APZUnTUUMxZ0oGG0sSLvRFqYLPP_%3A1704234518799)|		0x6615171DA4E596F5511B1A445ADDDCA27A31A67246C30B0743F5739E7670D699 |
 
 # Season 22
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 22.30-CL-NA	                | 11/1/22         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/1VAA0OvkLddmOpTbpnGIpdJP7OxQmuxrD/view)|		0xA1CDA4AD9A8A3B32AB87DD3501B3D906DA57C91FA599FFF5F15A35F3416DCF3C |
 | 22.40-CL-23070899	                | 11/15/22         	 | N/A           	    |	 [Manifest using Legendary](https://github.com/derrod/legendary/releases/latest) -------- [Manifest File](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest)|		0xA1CDA4AD9A8A3B32AB87DD3501B3D906DA57C91FA599FFF5F15A35F3416DCF3C |
-
-# Season 23 (Chapter 4)
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 23.00-CL-NA	                | 12/4/22         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/1CVTGxnm-idcOKw7P_DUuM4Tj_-sIdz8W/view?usp=sharing)|		0x8FC59C631B98802BA09DE361A6F37D882F047D19122B30C30673233129F79F1A |
 
 # NOTE:
 Builds past 24.20 are manifestable using [Legendary](https://github.com/derrod/legendary/releases/latest). You can find most manifests for Fortnite versions [here](https://github.com/polynite/fn-releases).
-
-# Season 27 (Season OG)
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 27.11-CL-29739262	                | 11/21/23         	 | UE5.3           	    |	 [Go to Download](https://drive.google.com/file/d/1yDuLwf_9kgzw-bwGoDfp0vPaIzulMhH8/view?usp=sharing)|		0x80900B2F9BCA8542F2E1C2DD99D2A99D9A34FAB6D58CD1D7E326611A52D8D957 |
