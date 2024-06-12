@@ -64,6 +64,7 @@
 | 5.21-CL-4288479         	| 8/15/18       	 | UE4.21-4288479 	    |           [Go to Download](https://public.simplyblk.xyz/5.21.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 | 5.30-CL-4305896         	| 8/23/18       	 | UE4.21-4305896	    |           [Go to Download](https://public.simplyblk.xyz/5.30.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 | 5.40-CL-4352937         	| 9/5/18       	 | UE4.21-4352937	    |		[Go to Download](https://public.simplyblk.xyz/5.40.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.41-CL-4363240         	| 9/18/18       	 | UE4.21-4352937	    |		[Go to Download](https://cdn.fnbuilds.xyz/5.41-CL-4363240.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
@@ -189,6 +190,11 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 22.40-CL-23070899	                | 11/15/22         	 | N/A           	    |	 [Manifest using Legendary](https://github.com/derrod/legendary/releases/latest) -------- [Manifest File](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest)|		0xA1CDA4AD9A8A3B32AB87DD3501B3D906DA57C91FA599FFF5F15A35F3416DCF3C |
+
+# Season 24
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 24.20-CL-23070899	                | 4/11/23         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
 
 # NOTE:
 Builds past 24.20 are manifestable using [Legendary](https://github.com/derrod/legendary/releases/latest). You can find most manifests for Fortnite versions [here](https://github.com/polynite/fn-releases).
