@@ -126,6 +126,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |		    Main AES Key             |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | ------------------------------ |
 | 11.00-CL-9603448	             | 10/15/19         | UE4.24              |	 [Go to Download](https://public.simplyblk.xyz/11.00.zip)|		0xC078E51F6EC259767BF61FEE58CD3C4C367E487D9DFD9EF1C2D504BBC97360EE |
+| 11.10-CL-9901083	             | 10/28/19         | UE4.24              |	 [Go to Download](https://drive.google.com/file/d/1P7wrV5Aum0-03TI6b3fOcB5P400Onsfo/view)|		0x60B40115A36DD9F17CC4A352F03211E3A859AC664FEF7E7200930F849FD8A980 |
 | 11.31-CL-10800459	                 | 12/18/19        	    | UE4.24                 |	 [Go to Download](https://public.simplyblk.xyz/11.31.rar)|		0x6C51ABA88CA1240A0D14EB94701F6C41FD7799B102E9060D1E6C316993196FDF |
  
 # Season 12
