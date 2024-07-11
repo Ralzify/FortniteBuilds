@@ -157,6 +157,7 @@
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 15.00-CL-14984751	                | 12/2/20         	 | UE4.26            	    |		[Go to Download](https://drive.google.com/file/d/1I15RzQoVZVgUbEZ4ckhWbpiRCr2c2Pmk/view?usp=sharing)|			0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2 |
 | 15.10-CL-15014719	                | 12/15/20         	 | UE4.26            	    |		[Go to Download](https://dl.dropbox.com/s/3xhcxqwyoegxjlm/15.10-CL-15014719.zip?dl=2)|		0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE |
 | 15.30-CL-15341163	          | 2/2/21         	 | UE4.26            	    |		[Go to Download](https://public.simplyblk.xyz/15.30.rar)|		0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0 |
 | 15.50-CL-15570449	                | 3/2/21         	 | UE4.26            	    |		[Go to Download](https://cdn.fnbuilds.xyz/15.50.rar)|		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
@@ -164,6 +165,7 @@
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 16.00-CL-16054793	                | 3/16/21        	 | UE4.26.1            	    |		[Go to Download](https://drive.google.com/file/d/1eS9TZh8u0Ea0LhGvG1DIiCYVlNef_2RT/view)|		0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A |
 | 16.40-CL-16218553	                | 5/11/21        	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/16.40.rar)|		0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142 |
 
 # Season 17
@@ -175,6 +177,9 @@
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 18.00-CL-17847626	                | 9/24/21         	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/18.40.zip)|		0x26CD203A3B9D9163BE126BFD09910594FE7A322CE0103E6B7DD8EEAD494AC023 |
+| 18.10-CL-17923647	                | 9/27/21         	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/18.40.zip)|			0x55F6E0B9A62A538AA9E54216E3B9DCB88BD3DC6E0A0F23FBC1BC362183AD11B2 |
+| 18.21-CL-18017591	                | 10/19/21         	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/18.40.zip)|		0xA1DA9C15884EC933DA9D7445140A5A5C668A18FAE35D248D5119254DB4EDA406 |
 | 18.40-CL-18163738	                | 11/16/21         	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/18.40.zip)|		0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24 |
 
 # Season 19
@@ -202,6 +207,11 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 24.20-CL-23070899	                | 4/11/23         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
+
+# Season 26
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 26.30-CL-28798412	                | 10/10/23         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
 
 # NOTE:
 Builds past 24.20 are manifestable using [Legendary](https://github.com/derrod/legendary/releases/latest). You can find most manifests for Fortnite versions [here](https://github.com/polynite/fn-releases).
