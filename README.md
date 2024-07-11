@@ -211,7 +211,7 @@
 # Season 26
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 26.30-CL-28798412	                | 10/10/23         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
+| 26.30-CL-28798412	                | 10/10/23         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)|		0x81CA2238EE455F02F859FC82C6B747175368A4874DC77A6FA61917EF46D33D1F |
 
 # NOTE:
 Builds past 24.20 are manifestable using [Legendary](https://github.com/derrod/legendary/releases/latest). You can find most manifests for Fortnite versions [here](https://github.com/polynite/fn-releases).
