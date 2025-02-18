@@ -66,7 +66,7 @@
 | 5.21-CL-4288479         	| 8/15/18       	 | UE4.21-4288479 	    |           [Go to Download](https://public.simplyblk.xyz/5.21.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 | 5.30-CL-4305896         	| 8/23/18       	 | UE4.21-4305896	    |           [Go to Download](https://public.simplyblk.xyz/5.30.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 | 5.40-CL-4352937         	| 9/5/18       	 | UE4.21-4352937	    |		[Go to Download](https://public.simplyblk.xyz/5.40.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 5.41-CL-4363240         	| 9/18/18       	 | UE4.21-4352937	    |		Not Available :c|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.41-CL-4363240         	| 9/18/18       	 | UE4.21-4352937	    |		[Go to Download](https://drive.google.com/file/d/1CQaeoYymQ-uR6KU81NZgsg4pnILZDLUf/view)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
@@ -197,6 +197,7 @@
 # Season 22
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Main AES Key             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 22.20-CL-N/A	                | 11/15/22         	 | N/A           	    |	 [Go To Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view)|		0x7B0F5676AF1AE170FAA59F74C20CA0D7EA0DAADECDAB82BEC4FC29D7DB7FE649 |
 | 22.40-CL-23070899	                | 11/15/22         	 | N/A           	    |	 [Manifest using Legendary](https://github.com/derrod/legendary/releases/latest) -------- [Manifest File](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest)|		0xA1CDA4AD9A8A3B32AB87DD3501B3D906DA57C91FA599FFF5F15A35F3416DCF3C |
 
 # NOTE:
