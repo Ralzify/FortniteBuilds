@@ -1,5 +1,8 @@
 # THIS GITHUB IS AN ARCHIVE OF [LLAMAQWERTY](https://github.com/llamaqwerty/fortnite-builds-archive). ALL OF THIS IS HIS WORK.
 
+> [!WARNING]  
+> Most of the links in this repository are bound to die. I try to updat this github when I can, but if they are dead please be patient. I am **not** a build provider.
+
 # Downloads
 
 ## Online Testing
